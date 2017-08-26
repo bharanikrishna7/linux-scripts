@@ -1,6 +1,6 @@
 ############################################################
 # nvidia-install.sh : Script to install nvidia drivers     #
-#                   : in Ubuntu.                           #
+#                     in Ubuntu.                           #
 # Version           : 0.1                                  #
 # Language          : bash 4.4.7                           #
 # Platform          : MSI GE62 2QD, Core-i7, Ubuntu 17.04  #
